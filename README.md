@@ -12,7 +12,7 @@ This repository contains a css sheet. This is code to make responsive, computer 
 }
 
 /* Tablette */
-@media (max-width: 766px) {
+@media (max-width: 768px) {
 }
 
 /* Mobile L */
